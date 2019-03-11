@@ -1,0 +1,46 @@
+body{
+    background-image: url(../images/pottermore.jpg);
+
+}
+
+#start{
+    background-color: black;
+    border-color: gold;
+    font-family: 'Jim Nightshade', cursive;
+    font-size: 30px;
+}
+
+#choices, .text-center{
+    font-family: 'Charm', cursive;
+    font-size: 40px;
+}
+
+.title{
+    color: white;
+    font-family: 'Jim Nightshade', cursive;
+    font-size: 65px;
+}
+
+h2,#remaining-time, #results, #question{
+    font-family: 'Charm', cursive;
+    font-size: 25px;
+    color: whitesmoke;
+
+}
+.last-seconds{
+  color: red;
+  font-weight: bold;
+}
+.option{
+  margin: 7px;
+}
+
+
+   
+
+
+
+
+
+
+
